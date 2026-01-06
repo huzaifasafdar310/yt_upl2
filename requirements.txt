@@ -1,0 +1,5 @@
+Flask==2.3.3
+python-dotenv==1.0.0
+requests==2.31.0
+yt-dlp==2023.7.6
+moviepy==1.0.3
